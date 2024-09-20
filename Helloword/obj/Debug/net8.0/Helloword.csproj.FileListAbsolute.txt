@@ -1,0 +1,15 @@
+/home/tnkma/C-Tour/Helloword/bin/Debug/net8.0/Helloword
+/home/tnkma/C-Tour/Helloword/bin/Debug/net8.0/Helloword.deps.json
+/home/tnkma/C-Tour/Helloword/bin/Debug/net8.0/Helloword.runtimeconfig.json
+/home/tnkma/C-Tour/Helloword/bin/Debug/net8.0/Helloword.dll
+/home/tnkma/C-Tour/Helloword/bin/Debug/net8.0/Helloword.pdb
+/home/tnkma/C-Tour/Helloword/obj/Debug/net8.0/Helloword.GeneratedMSBuildEditorConfig.editorconfig
+/home/tnkma/C-Tour/Helloword/obj/Debug/net8.0/Helloword.AssemblyInfoInputs.cache
+/home/tnkma/C-Tour/Helloword/obj/Debug/net8.0/Helloword.AssemblyInfo.cs
+/home/tnkma/C-Tour/Helloword/obj/Debug/net8.0/Helloword.csproj.CoreCompileInputs.cache
+/home/tnkma/C-Tour/Helloword/obj/Debug/net8.0/Helloword.sourcelink.json
+/home/tnkma/C-Tour/Helloword/obj/Debug/net8.0/Helloword.dll
+/home/tnkma/C-Tour/Helloword/obj/Debug/net8.0/refint/Helloword.dll
+/home/tnkma/C-Tour/Helloword/obj/Debug/net8.0/Helloword.pdb
+/home/tnkma/C-Tour/Helloword/obj/Debug/net8.0/Helloword.genruntimeconfig.cache
+/home/tnkma/C-Tour/Helloword/obj/Debug/net8.0/ref/Helloword.dll
